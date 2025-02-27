@@ -21,7 +21,6 @@ Todo el contenido hace referencia a lo aprendido en los cursos de Python de CISC
 
 ### Tecnologías utilizadas
 - Python 3.13
-- Librerías estándar y externas según el proyecto
 
 ### Cómo ejecutar el proyectos
 1. Clona el repositorio:  
