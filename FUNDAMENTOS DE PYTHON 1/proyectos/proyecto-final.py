@@ -1,3 +1,6 @@
+# Este código implementa un juego de Tres en Raya (Tic-Tac-Toe) en Python, 
+# donde el jugador humano usa "O" y la computadora usa "X"
+
 from random import randrange
 
 

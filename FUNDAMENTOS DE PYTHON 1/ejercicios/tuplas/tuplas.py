@@ -12,9 +12,9 @@ print(5 not in tuple_2)
 tuple_3 = (1, 2, 3, 4)
 print(len(tuple_3))
 print(5 not in tuple_3)
+
 # Ejemplo 4: Unirlas o multiplicarlas.
 tuple_4 = tuple_1 + tuple_2
 tuple_5 = tuple_3 * 2
-
 print(tuple_4)
 print(tuple_5)
