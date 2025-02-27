@@ -1,6 +1,8 @@
 ## Proyectos Personales en Python
-Este repositorio contiene ejercicios y proyectos personales en Python, organizados por categorías.
-Todo el contenido hace referencia a lo aprendido en los cursos de Python de CISCO.
+- Este repositorio contiene ejercicios y proyectos personales en Python, organizados por categorías.
+- Todo el contenido hace referencia a lo aprendido en los cursos de Python de CISCO.
+- **Nota:** Es posible que el código esté saturado con comentarios, quiero aclarar que no trabajo así, 
+es solo por ser ámbito académico, en lo laboral no suelo usar más de lo necesario.
 
 ### 📂 Estructura del repositorio
 
@@ -22,7 +24,7 @@ Todo el contenido hace referencia a lo aprendido en los cursos de Python de CISC
 ### Tecnologías utilizadas
 - Python 3.13
 
-### Cómo ejecutar el proyectos
+### Cómo ejecutar el proyecto
 1. Clona el repositorio:  
    ```bash
    git clone https://github.com/khrissmannix2024/proyectos_personales_python.git
