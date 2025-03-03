@@ -51,7 +51,7 @@
     ```
 
 ##### Para el proyecto Flask
-
+- Para este proyecto usé un entorno virtual para instalar las librerías.
     ```bash
     cd my_project
     pip install -r requirements.txt
